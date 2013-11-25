@@ -1,0 +1,13 @@
+#if !defined about_hpp_
+	#define about_hpp_
+
+
+
+
+
+#define IDC_TABOUTBOX 1000
+#define IDC_PNLBUTTON 100
+#define IDC_OKBUTTON 101
+
+
+#endif

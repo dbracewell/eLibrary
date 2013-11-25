@@ -1,0 +1,64 @@
+21
+University of North Carolina - FTP
+ibiblio.org
+pub/docs/books/gutenberg/
+Archive.org San Francisco, California
+ftp.archive.org
+pub/etext/
+Michigan State University Computer Science and Engineering Lansing, Michigan
+indian.cse.msu.edu
+pub/mirrors/Gutenberg/
+Xmission ISP - FTP Salt Lake City, Utah
+mirrors.xmission.com
+gutenberg/
+Canada Cygnal Technologies Corporation
+gutenberg.mirror.cygnal.ca
+pub/gutenberg/
+Samurai Consulting Toronto, Ontario
+ftp.samurai.com
+pub/gutenberg/
+Universidad Pedagogica Nacional (Tlalpan Mexico City)
+gutenberg.upn.mx
+pub/gutenberg/
+Australia Pacific Internet
+ftp.it.net.au
+mirrors/gutenberg/
+UK Mirror Service Canterbury and Lancaster
+ftp.mirror.ac.uk
+sites/metalab.unc.edu/pub/docs/books/gutenberg/
+Austria Vienna University of Technology
+pd.tuwien.ac.at
+soc/gutenberg/
+Germany SunSITE Central Europe at RWTH
+sunsite.informatik.rwth-aachen.de
+pub/mirror/ibiblio/gutenberg/
+Tiscali Business GmbH Frankfurt am Main
+pandemonium.tiscali.de
+pub/gutenberg/
+Hungary NIIDP - Hungarian Electronic Library
+ftp.iif.hu
+pub/gutenberg/
+Italy Roma
+cis.uniroma2.it
+gutenberg/
+Poland Poznan
+ftp.pg.psnc.pl
+pub/
+Sweden SUNET
+ftp.sunet.se
+pub/etext/gutenberg/
+South Africa and surrounding areas
+gutenberg.ru.ac.za
+pub/
+Iran eRamISP
+dlib.eramisp.com
+gut/
+China Beijing
+ftpbook.dhs.org
+mirrors/gutenberg
+Department of Philosophy - University of Peking
+elib.phil.pku.edu.cn
+pub/gutenberg/
+Taiwan Hsinchu
+opensource.nchc.org.tw
+gutenberg/ 

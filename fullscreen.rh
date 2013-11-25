@@ -1,0 +1,11 @@
+#if !defined fullscreen_hpp_
+	#define fullscreen_hpp_
+
+
+
+
+
+#define IDC_TFRMFULLSCREEN 1000
+
+
+#endif

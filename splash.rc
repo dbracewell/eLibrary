@@ -1,0 +1,42 @@
+//VCL Form Cracker, by Luigi Bianchi (Copyright, 2000)
+
+//http:\www.luigibianchi.com
+
+
+#include <winuser.h>
+#include <COMMCTRL.H>
+
+#include "splash.rh"
+
+
+
+
+
+
+
+
+IDC_IMGGUTENBERG BITMAP TsplashScreenImgGutenberg.bmp
+IDC_IMGELIBRARY BITMAP TsplashScreenImgELibrary.bmp
+//BEFORE_DIALOG_RC
+//
+//
+
+//BEGIN
+IDC_TSPLASHSCREEN DIALOGEX 202 151 195 153
+STYLE 0x00 | WS_POPUP | DS_CENTER | WS_VISIBLE | DS_3DLOOK | DS_FIXEDSYS
+CAPTION "splashScreen"
+FONT 8, "MS Sans Serif", 400, 0
+{
+ CONTROL IDC_IMGGUTENBERG, -1, "static", WS_CHILD | SS_BITMAP | WS_VISIBLE, 32, 64, 133, 55
+ CONTROL IDC_IMGELIBRARY, -1, "static", WS_CHILD | SS_BITMAP | WS_VISIBLE, 10, 4, 43, 39
+ CONTROL "eLibrary 2.0", IDC_LABEL1, "static", WS_CHILD | SS_NOTIFY | SS_LEFT | WS_VISIBLE, 64, 4, 121, 23, 0x00
+ CONTROL "Copyright 2001 David Bracewell", IDC_LABEL2, "static", WS_CHILD | SS_NOTIFY | SS_LEFT | WS_VISIBLE, 72, 26, 101, 8, 0x00
+ CONTROL "Powerd By", IDC_LABEL3, "static", WS_CHILD | SS_NOTIFY | SS_LEFT | WS_VISIBLE, 80, 49, 34, 8, 0x00
+ CONTROL "", IDC_BEVEL1, "static", WS_CHILD | SS_SUNKEN | WS_VISIBLE, 3, 123, 187, 1, 0x00
+ CONTROL "", IDC_BEVEL2, "static", WS_CHILD | SS_SUNKEN | WS_VISIBLE, 0, 0, 195, 153, 0x00
+ CONTROL "", IDC_LBLPROG, "static", WS_CHILD | SS_NOTIFY | SS_LEFT | WS_VISIBLE, 5, 128, 2, 8, 0x00
+ CONTROL "", IDC_PROGRESSBAR, "msctls_progress32", WS_CHILD | WS_VISIBLE, 6, 137, 182, 10, 0x00
+}
+
+
+//VCL Form Converter, by Luigi Bianchi

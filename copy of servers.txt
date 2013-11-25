@@ -1,0 +1,58 @@
+19
+University of North Carolina
+ibiblio.org
+pub/docs/books/gutenberg/
+Silicon Valley, California
+ftp.cdrom.com
+pub/gutenberg/
+Champaign, Illinois
+ftp.prairienet.org
+pub/providers/gutenberg/
+Dallas, Texas 
+viemeister.com
+pub/gutenberg/
+S. Francisco, California 
+ftp.archive.org
+pub/etext/
+Tucson, Arizona
+ftp.datacanyon.com
+pub/gutenberg/
+Edmonton, Alberta
+sunsite.ualberta.ca
+pub/Digital_Collections/Mirror/gutenberg/
+Guadalajara
+ftp.iteso.mx
+pub/etext/
+London, England
+src.doc.ic.ac.uk
+media/literary/collections/project_gutenberg/gutenberg/
+Canterbury and Lancaster
+ftp.mirror.ac.uk
+sites/metalab.unc.edu/pub/docs/books/gutenberg/
+Wien, Austria
+pd.tuwien.ac.at
+soc/gutenberg/
+Hamburg, Germany
+ftp.pandemonium.de
+mirrors/gutenberg/
+Budapest,  Hungary
+ftp.iif.hu
+pub/gutenberg/
+Bucharest, Romania
+ftp.lbi.ro
+pub/Books/Gutenberg/
+Murcia, Spain
+dafi2.dif.um.es
+pub/gutenberg/
+Sweden
+ftp.sunet.se
+pub/etext/gutenberg/
+Johannesburg, Gauteng South Africa
+ftp.is.co.za
+text/project-gutenberg/
+Beijing China
+elib.phil.pku.edu.cn
+pub/gutenberg/
+Taipei Taiwan
+ftp.transend.com.tw
+/mirrors/gutenberg/etext/

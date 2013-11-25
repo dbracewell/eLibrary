@@ -1,0 +1,20 @@
+#if !defined splash_hpp_
+	#define splash_hpp_
+
+
+
+
+
+#define IDC_TSPLASHSCREEN 1000
+#define IDC_IMGGUTENBERG 100
+#define IDC_IMGELIBRARY 101
+#define IDC_LABEL1 102
+#define IDC_LABEL2 103
+#define IDC_LABEL3 104
+#define IDC_BEVEL1 105
+#define IDC_BEVEL2 106
+#define IDC_LBLPROG 107
+#define IDC_PROGRESSBAR 108
+
+
+#endif
